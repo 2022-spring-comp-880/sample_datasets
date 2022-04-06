@@ -1,6 +1,7 @@
 # Sample Datasets
 
 ## Sources:
+* [Data Is Plural](https://www.data-is-plural.com/)  
 * [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [kaggle](https://www.kaggle.com/datasets)
 * [Domo Fun Sample DataSets](https://domohelp.domo.com/hc/en-us/articles/360043931814-Fun-Sample-DataSets)
